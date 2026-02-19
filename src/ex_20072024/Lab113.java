@@ -1,0 +1,9 @@
+package ex_20072024;
+
+public class Lab113 {
+    public static void main(String[] args) {
+        for(long i = 1; i < 10; i++) {
+            System.out.println(i);
+        } // numberal - float, int, short, byte, long, char
+    }
+}
